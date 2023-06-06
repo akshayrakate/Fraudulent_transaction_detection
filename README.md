@@ -3,4 +3,5 @@ To develop a model for predicting fraudulent transactions for a  financial compa
 
 Models used:
 1.  Logistic Regression
-2.  Random Forest
+2.  ![alt text](https://github.com/akshayrakate/Fraudulent_transaction_detection/blob/c7a93c1fb6ff51a2aa18cb462902f5a298001628/data/CF_LR.png)
+3.  Random Forest
